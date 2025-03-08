@@ -19,7 +19,7 @@
 
 ## 🛠 Tech Stack & Tools 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,javascript,typescript,python,php,java,c,cpp,csharp,django,html,css,tailwind,bootstrap,angular,mysql,nosql,mssql,postgres,mongodb,leveldb,sqlite,git,vercel,postman,metamask" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,javascript,typescript,python,php,java,c,cpp,cSharp,django,html,css,tailwind,bootstrap,angular,mysql,nosql,mssql,postgres,mongodb,leveldb,sqlite,git,vercel,postman,metamask" />
 </p>
 
 ---
