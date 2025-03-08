@@ -4,22 +4,22 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=0E9FDC&center=true&vCenter=true&width=650&height=45&lines=Fullstack+Developer+%7C+Project+Manager+%7C+DevOps;MERN+Stack+%7C+Next.js+%7C+NestJS+%7C+MongoDB+%7C+PostgreSQL;Learning+Docker+%7C+Git+%7C+Microservices+%7C+AI-Integration;Passionate+About+Building+Intelligent+Software!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=0E9FDC&center=true&vCenter=true&width=650&height=45&lines=Fullstack+Developer+%7C+Technical+Project+Manager;MERN+Stack+%7C+Next.js+%7C+NestJS+%7C+PostgreSQL;Learning+Docker+%7C+Microservices+%7C+AI-Integration;Passionate+About+Building+Intelligent+Software!" alt="Typing SVG">
 </p>
 
 ---
 
 ## 🚀 About Me
-👋 Hi! I'm **Fahim Wayez**, a passionate **Fullstack Developer** and **Project Manager** with expertise in **Next.js, NestJS, PostgreSQL, and MongoDB**.  
+👋 Hi! I'm **Fahim Wayez**, a passionate **Fullstack Developer** with expertise in **Next.js, NestJS, PostgreSQL, and MongoDB**.  
 🚀 I'm currently working on **AI-powered software automation, CRM/HRMS platforms, and workspace solutions**.  
 🛠️ I love building **scalable SaaS solutions**, working with **Docker, DevOps, and microservices**, and experimenting with **AI-based automation**.  
-🌱 Currently **learning and applying**: **Kubernetes, GitHub Actions, and advanced NestJS backend architecture.**  
+🌱 Currently **learning and applying**: **Kubernetes, and advanced NestJS backend architecture.**  
 
 ---
 
 ## 🛠 Tech Stack & Tools 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,postgres,mongodb,tailwind,docker,git,linux,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,javascript,typescript,python,php,java,c,cpp,c#,django,html,css,tailwind,bootstrap,angular,mysql,nosql,mssql,postgres,mongodb,leveldb,sqlite,git,vercel,postman,metamask" />
 </p>
 
 ---
