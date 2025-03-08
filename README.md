@@ -2,7 +2,7 @@
 
 <!-- Animated banner - You can replace the GIF URL with one that suits your vibe -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" alt="Welcome Banner" width="100%">
+  
 </p>
 
 # Hi there, I'm **Fahim**! 👋
