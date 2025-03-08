@@ -23,12 +23,12 @@ I'm a passionate **Fullstack Developer** and **Project Coordinator** who loves c
 
 <!-- Dynamic GitHub stats - replace <username> with your GitHub handle -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical" alt="Fahim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimWayez&show_icons=true&theme=radical" alt="Fahim's GitHub Stats" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimWayez&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ I'm a passionate **Fullstack Developer** and **Project Coordinator** who loves c
 <!-- Showcase your achievements -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=<FahimWayez>&theme=radical" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=FahimWayez&theme=radical" alt="GitHub Trophies" />
   </a>
 </p>
 
