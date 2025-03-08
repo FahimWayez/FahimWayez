@@ -32,15 +32,16 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimWayez&show_icons=true&theme=react&count_private=true"  width="100%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimWayez&theme=react" width="100%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimWayez&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=pythonProject&layout=donut&theme=react"  width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimWayez&show_icons=true&theme=react&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimWayez&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimWayez&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=pythonProject&layout=donut&theme=react"/>
 </p>
 
 <p align=center">
 
 </p>
 
+<!--
 ---
 
 ## 🏆 GitHub Trophies
@@ -54,7 +55,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahimWayez&theme=react" />
 </p>
-
+-->
 ---
 
 ## 🤝 Let's Connect!
