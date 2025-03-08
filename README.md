@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 👋 Hi! I'm **Fahim Wayez**, a passionate **Fullstack Developer** with expertise in **Next.js, NestJS, PostgreSQL, and MongoDB**.  
-🚀 I'm currently working on **Building my portfolio**. Check it out here: [**FahimWayez.com**](https://www.fahimwayez.com).  
+🚀 I'm currently working on **Building my portfolio**. Check it out here: [**Fahim Wayez**](https://www.fahimwayez.com).  
 🛠️ I love building **scalable SaaS solutions**, working with **Docker, DevOps, and microservices**, and experimenting with **AI-based automation**.  
 🌱 Currently **learning and applying**: **Jenkins, Docker.**  
 
@@ -32,12 +32,9 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimWayez&show_icons=true&theme=react&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimWayez&show_icons=true&theme=react&count_private=true" width="4%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimWayez&theme=react" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimWayez&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=pythonProject&layout=donut-vertical&theme=react" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimWayez&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=pythonProject&layout=donut&theme=react" width="40%" />
 </p>
 
 ---
