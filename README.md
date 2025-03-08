@@ -19,7 +19,7 @@
 
 ## 🛠 Tech Stack & Tools 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,javascript,typescript,python,php,java,c,cpp,cs,django,html,css,tailwind,bootstrap,angular,mysql,sqlserver,postgres,mongodb,leveldb,sqlite,git,vercel,postman,blockchain" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,javascript,typescript,python,php,java,c,cpp,cs,django,html,css,tailwind,bootstrap,angular,mysql,sqlserver,postgres,mongodb,sqlite,git,vercel,postman,blockchain" />
 </p>
 
 ---
@@ -34,15 +34,17 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimWayez&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimWayez&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimWayez&show=prs_merged,prs_merged_percentage&hide=issues&show_icons=true&theme=github_dark&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimWayez&theme=github_dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimWayez&size_weight=0.5&count_weight=0.5&langs_count=8&exclude_repo=pythonProject&layout=donut-vertical&theme=github_dark" />
+</p>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahimWayez&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FahimWayez&theme=github_dark&no-frame=false&no-bg=false&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -54,17 +56,18 @@
 
 ---
 
+<!--
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+
 - 🚀 [How to Build a Next.js 15 Portfolio](https://yourblog.com)
 - 🔥 [Mastering NestJS with MongoDB](https://yourblog.com)
 - 🛠️ [DevOps for Beginners: Docker & CI/CD](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:END
 
 📢 **Check out more on my [Blog](https://yourblog.com)!**  
-
+ 
 ---
-
+<!--
 ## 🎯 2024 Learning & Roadmap  
 🔹 **Next.js 15 & App Router** - Enhancing **interactive UI animations**  
 🔹 **NestJS & Microservices** - Working on **scalable backend solutions**  
@@ -72,12 +75,11 @@
 🔹 **AI Integration** - Exploring **LLMs for software automation**  
 
 ---
-
+-->
 ## 🤝 Let's Connect!
 <p align="center">
   <a href="https://github.com/FahimWayez"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/fahimwayez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/FahimWayez"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:fahimwayez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
