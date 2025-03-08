@@ -38,7 +38,7 @@ I'm a passionate **Fullstack Developer** and **Project Coordinator** who loves c
 <!-- Showcase your achievements -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=<username>&theme=radical" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=<FahimWayez>&theme=radical" alt="GitHub Trophies" />
   </a>
 </p>
 
