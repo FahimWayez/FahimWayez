@@ -12,7 +12,7 @@
 ## 🚀 About Me
 👋 Hi! I'm **Fahim Wayez**, a passionate **Fullstack Developer** with expertise in **Next.js, NestJS, PostgreSQL, and MongoDB**.  
 🚀 I'm currently working on **Building my portfolio**. Check it out here: [**Fahim Wayez**](https://www.fahimwayez.com).  
-🌱 Currently **learning and applying**: **Jenkins, Docker.**  
+🌱 Currently **learning and applying**: **Jenkins, Docker, Microservices & AI Integration**  
 
 ---
 
