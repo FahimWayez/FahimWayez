@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack & Tools 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,javascript,typescript,go,python,php,java,c,cpp,cs,django,html,css,tailwind,bootstrap,angular,mysql,postgres,mongodb,sqlite,git,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,javascript,typescript,go,python,php,java,c,cpp,cs,django,html,css,tailwind,bootstrap,angular,mysql,postgres,mongodb,sqlite,supabase,git,vercel,postman" />
 </p>
 
 ---
